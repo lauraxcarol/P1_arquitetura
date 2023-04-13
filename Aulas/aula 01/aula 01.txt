@@ -1,0 +1,27 @@
+AULA 01
+
+>_ (prompt)          : serve para digitar comandos
+C:\Users\20.00171-0  : folder / diretório
+C:                   : unidade que está ou quero ir
+dir                  : mostra o que tem dentro do diretório
+.                    : próprio diretório
+..                   : diretório pai
+cd nomedodiretorio   : para navegar / mudar o diretório
+cd ..                : para subir um nível
+cd \                 : diretório raiz
+mkdir                : criar um diretório
+dir ..\Pictures      : do diretório que eu estou para pesquisar em outro
+notepad nome.txt     : criar arquivo em bloco de notas
+copy                 : copiar
+del 		     : apagar
+rename 		     : renomear
+move 		     : mover
+rmdir /s             : apagar o diretório
+npm install -g cowsay  : para instalação de pacote (precisa do node para rodar)
+npx cowsay muu       : cria o desenho da vaquinha com o texto
+
+- npx já executa a para você, já o npn precisa usar o comando de executar depois
+- cd só espaço : procura na posição que eu estou
+- cd com \     : pesquisa pelo diretório raiz
+
+
